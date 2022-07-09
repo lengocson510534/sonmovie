@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sonmovie/static/css/main.ba634a02.css",
+    "main.js": "/sonmovie/static/js/main.74377c2f.js",
+    "static/media/footer-bg.jpeg": "/sonmovie/static/media/footer-bg.67e95f05e76a8cebf7e2.jpeg",
+    "static/media/slick.svg": "/sonmovie/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sonmovie/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sonmovie/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sonmovie/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sonmovie/index.html",
+    "main.ba634a02.css.map": "/sonmovie/static/css/main.ba634a02.css.map",
+    "main.74377c2f.js.map": "/sonmovie/static/js/main.74377c2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba634a02.css",
+    "static/js/main.74377c2f.js"
+  ]
+}
